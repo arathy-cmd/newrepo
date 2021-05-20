@@ -1,6 +1,6 @@
 #include <stio.h>
 int main()
 {
-printf("hello");
+printf("hello happy");
 return 1;
 }
